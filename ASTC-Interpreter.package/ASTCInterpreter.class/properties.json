@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ASTCSubclassResponsibilityVisitor",
+	"category" : "ASTC-Interpreter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"program",
+		"scope"
+	],
+	"name" : "ASTCInterpreter",
+	"type" : "normal"
+}

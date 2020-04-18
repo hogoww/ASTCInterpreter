@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ASTCAbstractScope",
+	"category" : "ASTC-Interpreter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parent"
+	],
+	"name" : "ASTCScope",
+	"type" : "normal"
+}

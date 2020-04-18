@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "ASTC-Interpreter-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"interpret"
+	],
+	"name" : "ASTCInterpreterTest",
+	"type" : "normal"
+}
